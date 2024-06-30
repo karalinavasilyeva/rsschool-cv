@@ -36,3 +36,7 @@ const clothing = {
 - __Polish__;
 - __German__;
 - __English__.
+
+## __Education:__ 
+- __Electro High School;
+- __Courses:__ RS School JS/FE Stage0.
