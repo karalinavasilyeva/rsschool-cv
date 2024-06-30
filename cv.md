@@ -38,5 +38,8 @@ const clothing = {
 - __English__.
 
 ## __Education:__ 
-- __Electro High School;
+- __Electro High School__;
 - __Courses:__ RS School JS/FE Stage0.
+
+## __Experience:__
+I have no work experience.
