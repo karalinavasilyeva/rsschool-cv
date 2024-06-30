@@ -31,3 +31,8 @@ const clothing = {
 }
 ```
 
+## __Languages__
+- __Russian__;
+- __Polish__;
+- __German__;
+- __English__.
