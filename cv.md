@@ -13,5 +13,11 @@
 ## __About me__:
 I am a high school student with a focus on computer science, I am a great team worker and I really want to learn and develop new skills. My big plus is that I easily solve mathematical problems, I also participate in Olympiads in mathematics, I did an internship at a mathematical university.
 
+## __Skills:__
+- __CSS__;
+- __HTML__;
+- __JavaScript__;
+- __DateBase__;
+- __Linux__.
 
 
