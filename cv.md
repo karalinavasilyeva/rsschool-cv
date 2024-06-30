@@ -20,4 +20,14 @@ I am a high school student with a focus on computer science, I am a great team w
 - __DateBase__;
 - __Linux__.
 
+## __Code examples:__
+```
+const clothing = {
+  brand: 'Balenciaga',
+  size: 'XS',
+  start: function() {
+    console.log(`Started ${this.brand} ${this.size}`)
+  }
+}
+```
 
